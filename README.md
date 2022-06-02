@@ -1,0 +1,2 @@
+# OUR-WEB-Browser
+In this project, we had created our web browser in which we can design our format structure in our web browser we can adjust the nav bar in the desired location on the screen such as the top of the screen, left side of the screen, right side of the screen or in the bottom of the screen. Our web browser is integrated with the google search engine form where we can surf the whole internet. We can also sign in to our google accounts in it. 
